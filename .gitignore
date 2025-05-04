@@ -23,4 +23,4 @@ coverage/
 # Arquivos temporários
 *.bak
 *.swp
-*.swo
+*.swonode_modules/
