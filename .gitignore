@@ -1,5 +1,8 @@
 # Dependências
 node_modules/
+.next/
+.env
+*.log
 
 # Build
 .next/
@@ -23,4 +26,4 @@ coverage/
 # Arquivos temporários
 *.bak
 *.swp
-*.swonode_modules/
+*.swo
