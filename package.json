@@ -1,0 +1,25 @@
+{
+  "name": "visitas-perfil-next",
+  "version": "1.0.0",
+  "description": "Contador de visitas para meu perfil do GitHub com Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nextjs",
+    "visitas",
+    "perfil",
+    "github"
+  ],
+  "author": "João Victor",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.5.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
