@@ -22,6 +22,8 @@
 
     visitas.json: Arquivo simples que armazena o número de visitas (persistência local).
 
+# 🚀 Como rodar
+
 # ![🚀 Como rodar](Comandos.png)
 
 # 💡 Observações
