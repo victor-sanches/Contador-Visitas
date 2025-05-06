@@ -4,6 +4,9 @@ node_modules/
 .env
 *.log
 
+# Arquivo de imagem que não deve ir pro Git
+/Comandos.png
+
 # Build
 .next/
 
